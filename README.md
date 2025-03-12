@@ -1,3 +1,10 @@
+Ось як воно працює
+<p align="center">
+  <img src="assets/video5373122207486602567%20(1).gif" alt="GIF Preview">
+</p>
+
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
